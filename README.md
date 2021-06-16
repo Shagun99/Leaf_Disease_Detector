@@ -7,3 +7,8 @@ Diseases in plants cause major production and economic losses as well as reducti
 * Data visualization and Exploratory Data Analysis (EDA)
 * Deep Neural Network models - ResNet and EfficientNet
 * GUI application
+
+## GUI
+![image](https://user-images.githubusercontent.com/46473107/122258331-8d1da280-ceee-11eb-916b-846a691d16aa.png)
+![image](https://user-images.githubusercontent.com/46473107/122258352-93138380-ceee-11eb-9d41-42bada65c4ae.png)
+![image](https://user-images.githubusercontent.com/46473107/122258464-afafbb80-ceee-11eb-9e81-17610f9a7183.png)
